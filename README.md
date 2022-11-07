@@ -19,7 +19,7 @@ Data saving and reading functions that read and construct data in standard form 
 
 Tools for solving common data wrangling problems in Fiona and elsewhere.
 
-Cleaning spell data by connecting duplicate, intersecting and successive spells with small breaks, removing duplicate observations with non-identical rows, transforming spell data into panel data of arbitrary frequencies.
+Cleaning spell data by connecting duplicate, intersecting and successive spells with small breaks, removing duplicate observations with non-identical rows, transforming spell data into panel data of arbitrary frequencies, computing number of days in spell during arbitrary time intervals.
 
 ### Recoding variables: rfionarecode
 
