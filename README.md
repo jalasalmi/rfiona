@@ -13,7 +13,7 @@ rfiona is a meta package that brings together three packages: rfionadata, rfiona
 
 rfionadata provides tools for organising, setting up, resaving, reading data and creating pseudodata in Fiona. 
 
-Data saving and reading functions that read and construct data in standard form fast but reasonable consumption of data storage, specialized reading functions that directly construct panel data of arbitrary frequency out of spell data or balanced or unbalanced panels out of annual data or add specific variables to data on demand, imputation of missing spell end information using information from other spells, creation of random pseudodata for testing and demonstration.
+Data saving and reading functions that read and construct data in standard form fast but with reasonable consumption of data storage, specialized reading functions that directly construct panel data of arbitrary frequency out of spell data or balanced or unbalanced panels out of annual data and add specific variables to data on demand, imputation of missing spell end information using information from other spells, creation of random pseudodata for testing and demonstration.
 
 ### Wrangling data: rfionawrangle
 
