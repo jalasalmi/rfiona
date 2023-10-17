@@ -1,5 +1,5 @@
 # rfiona
-A collection of tools and practises for effective managament and data wrangling in Statistics Finland's Fiona.
+A collection of tools and practices for effective managament and data wrangling in Statistics Finland's Fiona.
 
 ## Installation
 
@@ -7,7 +7,7 @@ The package is currently being developed in the Fiona remote access system.
 
 ## Packages
 
-rfiona is a meta package that brings together three packages: rfionadata, rfionawrangle and rfionarecode.
+rfiona is a meta package that brings together three packages: rfionadata, rfionawrangle and rfionaclassifications.
 
 ### Setting up, organising and reading data: rfionadata
 
@@ -19,9 +19,9 @@ Data saving and reading functions that read and construct data in standard form 
 
 Tools for solving common data wrangling problems in Fiona and elsewhere.
 
-Cleaning spell data by connecting duplicate, intersecting and successive spells with small breaks, removing duplicate observations with non-identical rows, transforming spell data into panel data of arbitrary frequencies, computing number of days in spell during arbitrary time intervals.
+Cleaning spell data by connecting duplicate, intersecting and successive spells with small breaks, removing duplicate observations with non-identical rows, transforming spell data into panel data of arbitrary frequencies, computing number of days in spell during arbitrary time intervals. Tailor made for data in Fiona.
 
-### Recoding variables: rfionarecode
+### Recoding variables: rfionaclassifications
 
 Tools for getting keys, recoding and naming categorical variables and getting variable information in Fiona.
 
